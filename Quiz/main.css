@@ -1,0 +1,68 @@
+@font-face {
+    font-family: melhor fonte;
+    src: url(./Assassin$.ttf);
+}
+
+
+
+main{
+    display: grid;
+    place-items: center;
+}
+
+div.alternativas{
+    display: grid;
+    justify-content: space-between;
+    gap: 0.3rem; 
+}
+
+.alternativas > button {
+    padding: 1.5rem;
+    width: 8rem;
+    height: 3rem;
+}
+
+.jefferson{
+    width: 5rem;
+    background-color: rgb(134, 134, 134);
+    color: white;
+    height: 2rem;
+    border-radius: 10px;
+    border-style: ridge;
+    border: 2.5px solid black;
+}
+
+body{
+    background-image: url("./1024241.png");
+    background-size: cover;
+}
+
+button:hover{
+    cursor: pointer;
+    transform: scale(120%);
+    box-shadow: 2px 2px 4px;
+}
+
+.pergunta{
+    font-family: melhor fonte;
+    font-size: 2.6rem;
+    color: white;
+    place-items: center;
+}
+
+.placar{
+    display: inline-block;
+    background-color: rgba(255, 255, 255, .3);
+    color: white;
+    width: 10rem;
+    text-align: center; 
+    border-radius: 20px;
+    font-family: melhor fonte;
+}
+
+.placar>h1
+{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}

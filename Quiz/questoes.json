@@ -1,0 +1,18 @@
+[
+  {
+    "pergunta": "-Qual a desenvolvedora de Assassin's creed?",
+    "correta": 1,
+    "alternativas":["Mojang", "Ubisoft", "EA", "Microsoft", "Sony", "Nintendo", "Blizzard", "Apple", "Epic Games", "System Era Softworks" ]
+  },
+  {
+    "pergunta": "-Quando lançou o primeiro Assassin's creed?",
+    "correta": 6,
+    "alternativas": [1998, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2023]
+  },
+  {
+    "pergunta": "-Qual o protagonista do primeiro jogo?",
+    "correta": 3,
+    "alternativas": ["Cleber", "Creed", "Ezio", "Altaïr", "Alexios", "Connor", "William", "Edward", "Evie", "Arno"]
+  }
+
+]
