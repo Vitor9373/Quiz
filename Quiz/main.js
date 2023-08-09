@@ -5,7 +5,7 @@ const acertos = document.querySelector(".acertos")
 
 
 async function main() {
-  const requisicao = await fetch("questoes.json")
+  const requisicao = await fetch("Quiz/questoes.json")
   const quiz = await requisicao.json()
   
   

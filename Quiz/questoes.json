@@ -2,7 +2,7 @@
   {
     "pergunta": "-Qual a desenvolvedora de Assassin's creed?",
     "correta": 1,
-    "alternativas":["Mojang", "Ubisoft", "EA", "Microsoft", "Sony", "Nintendo", "Blizzard", "Apple", "Epic Games", "System Era Softworks" ]
+    "alternativas":["Mojang", "Ubisoft", "EA", "Microsoft", "Sony", "Nintendo", "Blizzard", "Apple", "Epic Games", "System Era " ]
   },
   {
     "pergunta": "-Quando lançou o primeiro Assassin's creed?",
@@ -13,6 +13,15 @@
     "pergunta": "-Qual o protagonista do primeiro jogo?",
     "correta": 3,
     "alternativas": ["Cleber", "Creed", "Ezio", "Altaïr", "Alexios", "Connor", "William", "Edward", "Evie", "Arno"]
+  },
+  {
+    "pergunta": "-Assassin's creed III é qual jogo da franquia?",
+    "correta": 3,
+    "alternativas":["o segundo", "o terceiro", "o quarto", "o quinto", "o sexto", "o sétimo", "o oitavo", "o nono", "o último", "não existe"]
+  },
+  {
+    "pergunta": "-Quem é o inimigo dos assassinos?",
+    "correta": 0,
+    "alternativas":["os templários", "os asassinos", "o sisae", "a luz", "a escola", "a Ubisoft", "os caveleiros", "a ordem","os anciões","os deuses"]
   }
-
 ]
