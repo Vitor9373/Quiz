@@ -15,7 +15,7 @@ async function main() {
   
   function carregarAlternativa(numeroDaAlternativa) {
     if(numeroDaAlternativa >= quiz.length){
-      pergunta.innerHTML = 'Acabou!'
+      pergunta.innerHTML = 'Parabéns! Você terminou.'
       alternativas.innerHTML = ''
       return
     }
@@ -25,9 +25,9 @@ async function main() {
     pergunta.innerHTML =npergunta + alt.pergunta
 
     alternativas.innerHTML = ""
-    // quiz[0].alternativas.forEach(alt => alternativas.innerHTML += `<button>${alt}</button>`);
-    for (let i = 0; i <= 9; i++) {
-      alternativas.innerHTML += `<button class="jefferson">${alt.alternativas[i]}</button>`
+    //quiz[0].alternativas.forEach(alt => alternativas.innerHTML += `<button>${alt.alternativas[]}</button>`);
+    for (let i = 0; i <= 9 ; i++) {
+     alternativas.innerHTML += `<button class="jefferson">${alt.alternativas[i]}</button>`
     }
   }
   

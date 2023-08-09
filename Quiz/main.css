@@ -21,19 +21,15 @@ div.alternativas{
     width: 8rem;
     height: 3rem;
     font-size: medium;
-    background-color: rgba(255, 255, 255,);
-    color: rgb(8, 1, 1)
-}
-
-.jefferson{
-    width: 5rem;
     background-color: rgb(134, 134, 134);
     color: white;
-    height: 2rem;
     border-radius: 10px;
     border-style: ridge;
     border: 2.5px solid black;
 }
+
+
+
 
 body{
     background-image: url("./1024241.png");
